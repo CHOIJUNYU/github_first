@@ -6,6 +6,7 @@ from matplotlib import pyplot as plt
 
 "여기 수정할 거임 "
 "여기는 freshman이 수정했어염"
+"쏘리 바로 마스터 파일에 올려보냈내여 다시 freshman 꺼만 수정"
 
 for i in range(160):
     try:
