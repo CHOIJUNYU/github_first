@@ -3,8 +3,8 @@ import cv2
 from skimage.io import imread, imshow
 from matplotlib import pyplot as plt
 
-"하염하염 여기는 수정한 부분 ><"
 
+"여기 수정할 거임 "
 for i in range(160):
     try:
         x = cv2.imread(f"find(256)/img_{i}.png",0)
